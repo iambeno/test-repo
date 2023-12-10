@@ -1,1 +1,0 @@
-print("hapus file dari repo gitt")
